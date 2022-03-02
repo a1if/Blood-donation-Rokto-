@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Rokto/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/background.xml" value="0.18" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/ic_about.xml" value="0.2203125" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/ic_email.xml" value="0.2203125" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17685185185185184" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/ic_logout.xml" value="0.2203125" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/ic_notifications.xml" value="0.2203125" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/ic_phone.xml" value="0.2203125" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/ic_profile.xml" value="0.2203125" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/ic_share.xml" value="0.17685185185185184" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/navigation_selector.xml" value="0.17685185185185184" />
+        <entry key="..\:/Rokto/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.17685185185185184" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/activity_category_selected.xml" value="0.25" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/activity_donor_registration.xml" value="0.22" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/activity_main.xml" value="0.3851851851851852" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/activity_notifications.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/activity_reciepient_registration.xml" value="0.22" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/activity_recipient_registration.xml" value="0.18" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/activity_sent_email.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/header.xml" value="0.33" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/notification_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/output_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/splash_screen.xml" value="0.22" />
+        <entry key="..\:/Rokto/app/src/main/res/layout/user_displayed_layout.xml" value="0.33" />
+        <entry key="..\:/Rokto/app/src/main/res/menu/main_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

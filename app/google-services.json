@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "209225877374",
+    "project_id": "rokto-2e311",
+    "storage_bucket": "rokto-2e311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209225877374:android:b3f6e2758587415953d52f",
+        "android_client_info": {
+          "package_name": "com.firstapplication.rokto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209225877374-366ln40m9o64fltsd4tf1hqm3js5nmfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstapplication.rokto",
+            "certificate_hash": "3cac67ab9a08bb9595ddc6a3f8651f36484bfdc1"
+          }
+        },
+        {
+          "client_id": "209225877374-n4494ltif12dddbnom4sdh9v4dqbensd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwO7g8ycM_rbKxmIOMduf-trzjD09__qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209225877374-n4494ltif12dddbnom4sdh9v4dqbensd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
